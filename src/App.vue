@@ -32,7 +32,7 @@
         </div>
         <div class="h-[200px]"></div>
       </section>
-      <section class="section h-screen relative mt-8" data-anchor="problem" id="problem">
+      <section class="section min-h-screen relative mt-8" data-anchor="problem" id="problem">
         <div class="w-screen w-full flex justify-center flex-shrink-0">
           <div class="w-2/3">
             <h1 class="text-6xl text-center">The Problem</h1>
@@ -55,7 +55,7 @@
               </div>
               <Card class="mt-4">
                 <div class="lg:w-64 lg:h-64 w-32 h-32 flex justify-center">
-                  <img src="/public/trash.png" class="rounded">
+                  <img src="/trash.png" class="rounded">
                 </div>
               </Card>
             </div>
@@ -80,7 +80,8 @@
           </h1>
           <div class="w-4/6">
             <div class="flex items-center mt-32 justify-center relative flex-col sm:flex-row flex-col-reverse ">
-              <img src="public/img5.jpeg" class="w-96 rounded" data-aos="fade-down">
+
+              <video src="/video.mp4" autoplay loop muted class="w-96 rounded" data-aos="fade-down"></video>
               <h1 class="text-5xl xl:text-8xl ml-4" data-aos="fade-right">MEET<br><span
                   class="handwritten">SCRAPTER</span></h1>
             </div>
@@ -116,10 +117,10 @@
 
 
             <div class="flex child:m-2 flex-wrap justify-center child:flex-grow-0 ">
-              <img src="public/img1.jpeg" class="w-96 rounded" data-aos="fade-right">
-              <img src="public/img2.jpeg" class="w-96 rounded" data-aos="fade-right">
-              <img src="public/img3.jpeg" class="w-96 rounded" data-aos="fade-right">
-              <img src="public/img4.jpeg" class="w-96 rounded" data-aos="fade-right">
+              <img src="/img1.jpeg" class="w-96 rounded" data-aos="fade-right">
+              <img src="/img2.jpeg" class="w-96 rounded" data-aos="fade-right">
+              <img src="/img3.jpeg" class="w-96 rounded" data-aos="fade-right">
+              <img src="/img4.jpeg" class="w-96 rounded" data-aos="fade-right">
             </div>
 
             <div class="w-0 h-[12rem]"></div>
@@ -141,7 +142,7 @@
           <span>Join us now and be part of a <span class="handwritten text-green">green</span> future</span>
 
           <div class="bg-white p-4 text-xl w-fit rounded-3xl text-black mt-8 cursor-pointer animate-bounce">
-            Vote Now
+            <a href="https://slash.berlin/event">Vote Now</a>
           </div>
         </div>
       </section>

@@ -9,13 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@types/scrollmagic": "^2.0.2",
     "aos": "^2.3.4",
     "hover.css": "^2.3.2",
-    "scrollmagic": "^2.0.8",
     "vite-svg-loader": "^3.6.0",
-    "vue": "^3.2.37",
-    "vue-fullpage.js": "^0.2.7"
+    "vue": "^3.2.37"
   },
   "devDependencies": {
     "@types/aos": "^3.0.4",

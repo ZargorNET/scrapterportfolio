@@ -4,10 +4,8 @@
   </div>
 </template>
 
-<script>
-export default {
-  name: "Card"
-}
+<script setup lang="ts">
+
 </script>
 
 <style scoped>
