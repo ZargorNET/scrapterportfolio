@@ -1,7 +1,7 @@
 <template>
   <div class="w-full bg-bg text-white flex justify-center">
     <div class="text-xl">
-      <section class="section h-screen">
+      <section class="section min-h-screen">
         <div class="min-h-screen flex flex-col relative w-full items-center">
           <Landfill class="rotate-180"/>
           <div class="sm:w-2/3">
@@ -30,9 +30,8 @@
             </div>
           </div>
         </div>
-        <div class="h-[200px]"></div>
       </section>
-      <section class="section min-h-screen relative mt-8" data-anchor="problem" id="problem">
+      <section class="section min-h-screen h-fit relative mt-8" data-anchor="problem" id="problem">
         <div class="w-screen w-full flex justify-center flex-shrink-0">
           <div class="w-2/3">
             <h1 class="text-6xl text-center">The Problem</h1>
