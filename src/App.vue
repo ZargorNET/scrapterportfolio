@@ -126,12 +126,12 @@
           </div>
         </div>
       </section>
-      <section class="section min-h-screen relative" data-anchor="future" id="future">
+      <section class="section min-h-screen relative w-screen overflow-hidden" data-anchor="future" id="future">
         <div class="text-6xl xl:text-9xl mt-64 flex flex-col items-center text-center">
           THE <br/>
           FUTURE <br/>
           IS <br/>
-          <div class="text-yellow handwritten relative w-fit xl:text-[14rem] text-8xl relative">
+          <div class="text-yellow handwritten relative w-fit xl:text-[14rem] text-8xl ">
             BRIGHT
             <div class="w-full h-full -mt-40 blur-3xl bg-yellow absolute animate-ping"></div>
           </div>
