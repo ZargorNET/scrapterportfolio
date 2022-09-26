@@ -86,7 +86,7 @@
             </div>
 
 
-            <div class="flex items-center xl:ml-8 z-50 mt-12" data-aos="zoom-in">
+            <div class="flex items-center xl:ml-8 z-50 mt-12 justify-center" data-aos="zoom-in">
               <p class="text-5xl text-white bg-bglight rounded-3xl p-4 floating">
                 <span class="text-center flex flex-col">Recycling is an important step to save <span
                     class="handwritten text-transparent greenGradient text-center">Planet A</span></span>
@@ -127,6 +127,12 @@
         </div>
       </section>
       <section class="section min-h-screen relative w-screen overflow-hidden" data-anchor="future" id="future">
+        <div class="flex justify-center -mt-2">
+          <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none"
+               class="w-96 fill-white">
+            <path d="M1200 0L0 0 598.97 114.72 1200 0z" class="shape-fill"></path>
+          </svg>
+        </div>
         <div class="text-6xl xl:text-9xl mt-64 flex flex-col items-center text-center">
           THE <br/>
           FUTURE <br/>
